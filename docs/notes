@@ -1,0 +1,12 @@
+# relational databases
+- large, complex, powerful. e.g. PostgreSQl, mySQL, SQLite 
+- databased are constructed primarily from tables 
+
+## Why relational?
+- how table are used together 
+- related columns by unique id 
+
+## unique identifier 
+- add unique id for each table, refer to each user based on id 
+- can also add id for unique user name 
+
